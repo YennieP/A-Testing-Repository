@@ -1,0 +1,2 @@
+切换branch之前checkbranch是否是“脏的”，即输入命令：
+git status
